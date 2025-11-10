@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+flam/
+
+# Project-specific
+queue.db
+queue.db-journal
+queue.db-shm
+queue.db-wal
+
+# Common OS files (Windows)
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Common IDE/Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
